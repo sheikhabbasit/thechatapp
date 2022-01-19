@@ -1,0 +1,22 @@
+.message_form {
+  position: fixed;
+  bottom: 0;
+  /* left: 30%; */
+  width: 90%;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 00.5rem;
+  background-color: #0e4215;
+  padding: 1rem;
+}
+
+.message_form input {
+  width: 40vw;
+  margin: 0 10px;
+  padding: 10px;
+  border-radius: 10px;
+  outline: none;
+  border: none;
+  margin-left: 15rem;
+}
