@@ -1,0 +1,31 @@
+.user_wrapper {
+  margin: 10px;
+  padding: 10px;
+  cursor: pointer;
+  background-color: #182c52;
+  border-radius: 10px;
+}
+.user_info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.user_detail {
+  display: flex;
+  align-items: center;
+}
+.user_detail h4 {
+  margin-left: 10px;
+  color: #fc9918;
+}
+.user_status {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+.online {
+  background-color: #34eb52;
+}
+.offline {
+  background-color: #eb4034;
+}
